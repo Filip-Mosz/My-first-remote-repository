@@ -1,1 +1,2 @@
 Test pliku na nowym branchu
+Wersja z brancha 2
